@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanishk!
 
-🎓 4th Year Integrated M.Sc. Student at NIT Surat  
+🎓 4th Year Integrated M.S. Student at NIT Surat  
 📊 Research Intern at IIM Rohtak | Former Chegg SME  
 💻 Developer | AI & ML Enthusiast | Web & Data Projects  
 
