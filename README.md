@@ -23,9 +23,11 @@
 ---
 
 ### 📌 Featured Projects:
-- 💹 [Stock Price Prediction](https://github.com/tanishk49/Stacked-Stock-Predictor-Model)
-- 🧠 [Spam SMS Detection with Naive Bayes](https://github.com/tanishk49/SMS-Spam-Detection)
-- 🧬 [Audio Deepfake Detection using RawNet2](https://github.com/tanishk49/Audio_Deepfake_Detection)
+- [Agentic AI Personal Loan Assistant](https://github.com/tanishk49/agent-loan-bot)
+- [Financial Statement Analyzer](https://github.com/tanishk49/Financial-Statement-Analyzer)
+- [Stacked Stock Price Prediction Model](https://github.com/tanishk49/Stacked-Stock-Predictor-Model)
+- [Spam SMS Detection with Naive Bayes](https://github.com/tanishk49/SMS-Spam-Detection)
+- [Audio Deepfake Detection using RawNet2](https://github.com/tanishk49/Audio_Deepfake_Detection)
 <!--- 🌐 [MERN Portfolio Website](link) 
 - 📊 [Big Sales Prediction (EDA + ML)](link) -->
 
